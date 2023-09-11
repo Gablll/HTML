@@ -38,3 +38,25 @@ ul li a:hover{
     color: #620cd3;
     background-color: #def2ff;
 }
+
+/* Aplicar estilo para classe .longo */
+.longo {
+    background-color: #dee0ff;
+}
+
+/* Aplicar estilo para id=p1 */
+#p1 {
+    color: #05c5ff;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Aplicar estilo para tag */
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* Aplicar estilo para a tag h1 */
+h1{
+   background-color: #ced3ff; 
+}
