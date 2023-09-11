@@ -2,7 +2,7 @@
 body {
     font-family: sans-serif;
     color: #000000;
-    background-color: #e7f8ff;
+    background-color: #f8ffff;
     padding: 0;
     margin: 0;
 
@@ -13,7 +13,7 @@ nav{
     justify-content: space-between;
     padding: 20px;
     align-items: center;
-    border-bottom: 1px solid #9700fc;
+    border-bottom: 1px solid #a51fff;
 }
 
 nav ul{
