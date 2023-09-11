@@ -1,0 +1,11 @@
+/* Geral */
+body {
+    font-family: sans-serif;
+
+}
+
+/* Estilos aplicados nos elementos dentro da div-paragrafos */
+#div-paragrafos {
+    color: #620cd3;
+    background-color: #def2ff;
+}
