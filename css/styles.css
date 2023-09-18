@@ -1,12 +1,19 @@
+/* Estilo aplicado nos elementos da seção body */
 body{
+    /* configuração da fonte */
     font-family: Helvetica;
+    /* alinhamento do texto centralizado */
     text-align: center;
+    /* configurando a cor da fonte */
     color: #000000;
+    /* configurando a cor do fundo */
     background-color: #e7f8ff;
+    /* Reset de margem e padding */
     padding: 0;
     margin: 0;
 }
 
+/* Estilos aplicados na seção nav */
 nav{
     display: flex;
     justify-content: space-between;
@@ -15,6 +22,7 @@ nav{
     border-bottom: 1px solid #9700fc;
 }
 
+/* Lista não ordenada dentro da seção nav */
 nav ul{
     display: flex;
     list-style: none;
